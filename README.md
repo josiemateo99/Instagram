@@ -30,4 +30,4 @@ Here's a walkthrough of implemented user stories:
 # Posting a Photo
 <img src='https://i.imgur.com/YMV6Ofs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 # Viewing Posted Photo
-<img src='https://i.imgur.com/1odlxBv.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/1odlxBv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
