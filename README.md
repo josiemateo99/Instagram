@@ -23,11 +23,12 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-# Signing Up
+# Example Videos in Parts
+Signing Up
 <img src='https://i.imgur.com/QVF0UzU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-# Logging In
+Logging In
 <img src='https://i.imgur.com/Q9Tf2uo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-# Posting a Photo
+Posting a Photo
 <img src='https://i.imgur.com/YMV6Ofs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-# Viewing Posted Photo
+Viewing Posted Photo
 <img src='https://i.imgur.com/1odlxBv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
