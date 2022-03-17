@@ -65,4 +65,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/ToWOkmu.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![arrggg](https://user-images.githubusercontent.com/65267381/158905061-00a55301-93b5-4b71-8976-cf45a88ac047.gif)
