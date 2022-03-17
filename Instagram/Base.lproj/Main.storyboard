@@ -11,7 +11,7 @@
         <!--Login View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="LoginViewController" customModule="Instagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="LoginViewController" id="BYZ-38-t0r" customClass="LoginViewController" customModule="Instagram" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -194,6 +194,11 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="AOg-ny-Qal">
+                        <barButtonItem key="leftBarButtonItem" title="Logout" id="IBl-Gg-fkd">
+                            <connections>
+                                <action selector="onLogoutButton:" destination="bTE-tZ-x8K" id="hNc-iy-6gl"/>
+                            </connections>
+                        </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" title="+" image="insta_camera_btn" id="J5s-iP-i90">
                             <connections>
                                 <segue destination="LkC-qY-94z" kind="presentation" id="DgM-qo-cgm"/>
@@ -205,6 +210,7 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="d5f-8J-bAt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <exit id="bTE-tZ-x8K" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="1776.8115942028987" y="138.61607142857142"/>
         </scene>
@@ -282,7 +288,7 @@
         <!--Navigation Controller-->
         <scene sceneID="5dj-FZ-c8G">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="WwE-89-RXx" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="FeedNavigationController" automaticallyAdjustsScrollViewInsets="NO" id="WwE-89-RXx" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="kdX-G9-CWd">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="56"/>
